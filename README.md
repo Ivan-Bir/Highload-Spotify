@@ -5,7 +5,7 @@
 ## Содержание
 
 * ### [Тема и целевая аудитория](#1)
-* ### [Список литературы](#8)
+* ### [Использованные источники](#8)
 
 
 ## 1. Тема и целевая аудитория <a name="1"></a>
@@ -29,10 +29,12 @@
 | India    | 3.90%                                      |
 | остальные.. | 54.52%                                      |
 
+C 7 апреля 2022 года в РФ Spotify стал недоступен.[^4]
 
 ### MVP
 
 - Стриминг музыкальных произведений
+- Рекомендации на освоне прослушанных треков
 - Получение информации об исполнителе и произведении
 - Добавление трека
 - Создание плейлиста
@@ -45,9 +47,10 @@
 ## 7. Список серверов <a name="7"></a> -->
 
 ## Использованные источники <a name="8"></a>
-
 [^1]: [Music subscriber market shares 2022](https://midiaresearch.com/blog/music-subscriber-market-shares-2022)
 
 [^2]: [Number of Spotify monthly active users. Statista](https://www.statista.com/statistics/367739/spotify-global-mau/)
 
 [^3]: [similarweb Spotify statistic](https://www.similarweb.com/ru/website/spotify.com/#overview)
+
+[^4]: [Spotify остановил работу в России](https://habr.com/ru/news/t/660157/)
